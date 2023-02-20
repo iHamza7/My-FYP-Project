@@ -25,7 +25,7 @@ class _BodyState extends State<Body> {
       "image": "assets/images/pro1.jpg",
     },
     {
-      "text": "This will also help in Passport",
+      "text": "This will also help  Passport",
       "image": "assets/images/pro3.jpg",
     },
   ];
