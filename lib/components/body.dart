@@ -21,7 +21,7 @@ class _BodyState extends State<Body> {
       "image": "assets/images/pro.jpg",
     },
     {
-      "text": "To find the lost CNIC is now easy",
+      "text": "To find the lost CNIC is now Easy",
       "image": "assets/images/pro1.jpg",
     },
     {
